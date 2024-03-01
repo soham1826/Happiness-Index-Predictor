@@ -18,7 +18,7 @@ This project was developed during a 24-hour hackathon and aims to predict the ha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/happiness-index-predictor.git
+   git clone https://github.com/soham1826/Happiness-Index-Predictor.git
    ```
 2. Navigate to the project directory:
    ```bash
