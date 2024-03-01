@@ -25,12 +25,10 @@ This project was developed during a 24-hour hackathon and aims to predict the ha
    cd happiness-index-predictor
    ```
 3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 4. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run app3.py
    ```
 5. Open your web browser and go to [http://localhost:8501](http://localhost:8501) to access the application.
 
